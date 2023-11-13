@@ -7,6 +7,8 @@ Cool looking dll injector for every program u want.
 
 
 
+Fixed ahmedelnaggar`s injector and upgraded it.
+
 
 Thanks to https://github.com/ahmedelnaggar1/Windows-DLL-Injector for base to my injector.
 
